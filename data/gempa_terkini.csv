@@ -1,4 +1,5 @@
 Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
+19 Jul 2026,15:11:08 WIB,2026-07-19T08:11:08+00:00,7.70 LS,106.54 BT,5.0,23 km,79 km BaratDaya KAB-SUKABUMI-JABAR,Tidak berpotensi tsunami
 18 Jul 2026,09:23:39 WIB,2026-07-18T02:23:39+00:00,4.72 LU,124.78 BT,5.5,10 km,146 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT,Tidak berpotensi tsunami
 14 Jul 2026,22:49:37 WIB,2026-07-14T15:49:37+00:00,5.34 LU,125.06 BT,6.2,10 km,198 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT,Tidak berpotensi tsunami
 12 Jul 2026,20:46:35 WIB,2026-07-12T13:46:35+00:00,1.31 LU,121.38 BT,5.4,10 km,37 km TimurLaut BUOL-SULTENG,Tidak berpotensi tsunami
@@ -13,4 +14,3 @@ Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
 27 Jun 2026,17:37:00 WIB,2026-06-27T10:37:00+00:00,6.99 LS,125.83 BT,5.6,545 km,202 km TimurLaut ALOR-NTT,Tidak berpotensi tsunami
 27 Jun 2026,14:47:21 WIB,2026-06-27T07:47:21+00:00,8.96 LS,111.16 BT,5.6,10 km,86 km Tenggara PACITAN-JATIM,Tidak berpotensi tsunami
 26 Jun 2026,18:34:39 WIB,2026-06-26T11:34:39+00:00,5.33 LU,125.08 BT,6.8,10 km,196 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT,Tidak berpotensi tsunami
-25 Jun 2026,11:03:35 WIB,2026-06-25T04:03:35+00:00,5.50 LU,125.07 BT,5.3,10 km,215 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT,Tidak berpotensi tsunami
