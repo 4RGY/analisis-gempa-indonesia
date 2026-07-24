@@ -4,8 +4,8 @@ Proyek portofolio data analytics sederhana menggunakan Open Data BMKG (Badan Met
 
 ## Insight Utama (Berdasarkan 15 gempa terakhir)
 - **Gempa Terbesar:** Terjadi dengan magnitudo **6.2 SR** di wilayah **198 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT** pada 14 Jul 2026 pukul 22:49:37 WIB.
-- **Rata-rata Kekuatan:** Sekitar **5.53 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
-- **Rata-rata Kedalaman:** **52.73 km**. 
+- **Rata-rata Kekuatan:** Sekitar **5.44 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
+- **Rata-rata Kedalaman:** **11.07 km**. 
 
 ## Visualisasi Data
 
