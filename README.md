@@ -3,8 +3,8 @@
 Proyek portofolio data analytics sederhana menggunakan Open Data BMKG (Badan Meteorologi, Klimatologi, dan Geofisika). Script ini secara otomatis mengambil data XML terbaru, mengubahnya menjadi format tabular (CSV), lalu melakukan analisis deskriptif.
 
 ## Insight Utama (Berdasarkan 15 gempa terakhir)
-- **Gempa Terbesar:** Terjadi dengan magnitudo **6.2 SR** di wilayah **198 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT** pada 14 Jul 2026 pukul 22:49:37 WIB.
-- **Rata-rata Kekuatan:** Sekitar **5.45 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
+- **Gempa Terbesar:** Terjadi dengan magnitudo **6.4 SR** di wilayah **221 km BaratLaut PULAUKARATUNG-SULUT** pada 05 Agu 2026 pukul 11:14:04 WIB.
+- **Rata-rata Kekuatan:** Sekitar **5.51 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
 - **Rata-rata Kedalaman:** **13.00 km**. 
 
 ## Visualisasi Data
