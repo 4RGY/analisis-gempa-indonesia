@@ -1,4 +1,5 @@
 Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
+11 Agu 2026,00:08:08 WIB,2026-08-10T17:08:08+00:00,5.89 LS,102.43 BT,5.1,30 km,63 km Tenggara ENGGANO-BENGKULU,Tidak berpotensi tsunami
 09 Agu 2026,22:15:04 WIB,2026-08-09T15:15:04+00:00,5.92 LS,102.77 BT,5.5,40 km,84 km Tenggara ENGGANO-BENGKULU,Tidak berpotensi tsunami
 09 Agu 2026,10:02:05 WIB,2026-08-09T03:02:05+00:00,7.25 LU,94.06 BT,5.7,10 km,205 km BaratLaut KOTA-SABANG-ACEH,Tidak berpotensi tsunami
 07 Agu 2026,21:07:39 WIB,2026-08-07T14:07:39+00:00,5.81 LS,110.18 BT,5.0,560 km,102 km BaratLaut JEPARA-JATENG,Tidak berpotensi tsunami
@@ -13,4 +14,3 @@ Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
 26 Jul 2026,17:57:43 WIB,2026-07-26T10:57:43+00:00,10.00 LS,123.71 BT,5.5,26 km,19 km BaratDaya KAB-KUPANG-NTT,Tidak berpotensi tsunami
 24 Jul 2026,19:14:29 WIB,2026-07-24T12:14:29+00:00,2.37 LS,139.01 BT,5.5,10 km,61 km Tenggara SARMI-PAPUA,Tidak berpotensi tsunami
 24 Jul 2026,05:58:34 WIB,2026-07-23T22:58:34+00:00,0.72 LU,126.31 BT,5.8,10 km,117 km BaratDaya TERNATE-MALUT,Tidak berpotensi tsunami
-24 Jul 2026,05:50:25 WIB,2026-07-23T22:50:25+00:00,5.98 LS,100.72 BT,5.4,10 km,185 km BaratDaya ENGGANO-BENGKULU,Tidak berpotensi tsunami
