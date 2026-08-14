@@ -5,7 +5,7 @@ Proyek portofolio data analytics sederhana menggunakan Open Data BMKG (Badan Met
 ## Insight Utama (Berdasarkan 15 gempa terakhir)
 - **Gempa Terbesar:** Terjadi dengan magnitudo **6.4 SR** di wilayah **221 km BaratLaut PULAUKARATUNG-SULUT** pada 05 Agu 2026 pukul 11:14:04 WIB.
 - **Rata-rata Kekuatan:** Sekitar **5.53 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
-- **Rata-rata Kedalaman:** **59.33 km**. 
+- **Rata-rata Kedalaman:** **63.33 km**. 
 
 ## Visualisasi Data
 
