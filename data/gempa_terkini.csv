@@ -1,4 +1,9 @@
 Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
+15 Agu 2026,19:14:41 WIB,2026-08-15T12:14:41+00:00,8.25 LS,121.28 BT,5.1,10 km,47 km BaratLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
+15 Agu 2026,17:54:52 WIB,2026-08-15T10:54:52+00:00,2.97 LU,98.95 BT,6.4,163 km,10 km Tenggara SIMALUNGUN-SUMUT,Tidak berpotensi tsunami
+15 Agu 2026,14:39:41 WIB,2026-08-15T07:39:41+00:00,7.94 LS,120.79 BT,5.1,10 km,82 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
+15 Agu 2026,12:45:09 WIB,2026-08-15T05:45:09+00:00,8.40 LS,121.44 BT,5.0,10 km,33 km TimurLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
+15 Agu 2026,10:54:14 WIB,2026-08-15T03:54:14+00:00,8.32 LS,121.45 BT,5.0,10 km,42 km TimurLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
 15 Agu 2026,05:53:14 WIB,2026-08-14T22:53:14+00:00,8.19 LS,120.28 BT,5.3,10 km,51 km BaratLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
 15 Agu 2026,05:37:19 WIB,2026-08-14T22:37:19+00:00,8.15 LS,120.17 BT,5.6,11 km,49 km TimurLaut LABUANBAJO-NTT,Tidak berpotensi tsunami
 15 Agu 2026,05:28:40 WIB,2026-08-14T22:28:40+00:00,8.34 LS,121.54 BT,6.2,10 km,45 km TimurLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
@@ -9,8 +14,3 @@ Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
 14 Agu 2026,01:39:29 WIB,2026-08-13T18:39:29+00:00,5.19 LU,125.55 BT,5.7,48 km,175 km TimurLaut TAHUNA-KEP.SANGIHE-SULUT,Tidak berpotensi tsunami
 11 Agu 2026,00:08:08 WIB,2026-08-10T17:08:08+00:00,5.89 LS,102.43 BT,5.1,30 km,63 km Tenggara ENGGANO-BENGKULU,Tidak berpotensi tsunami
 09 Agu 2026,22:15:04 WIB,2026-08-09T15:15:04+00:00,5.92 LS,102.77 BT,5.5,40 km,84 km Tenggara ENGGANO-BENGKULU,Tidak berpotensi tsunami
-09 Agu 2026,10:02:05 WIB,2026-08-09T03:02:05+00:00,7.25 LU,94.06 BT,5.7,10 km,205 km BaratLaut KOTA-SABANG-ACEH,Tidak berpotensi tsunami
-07 Agu 2026,21:07:39 WIB,2026-08-07T14:07:39+00:00,5.81 LS,110.18 BT,5.0,560 km,102 km BaratLaut JEPARA-JATENG,Tidak berpotensi tsunami
-06 Agu 2026,04:41:30 WIB,2026-08-05T21:41:30+00:00,5.13 LU,125.37 BT,5.8,10 km,169 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT,Tidak berpotensi tsunami
-05 Agu 2026,23:50:18 WIB,2026-08-05T16:50:18+00:00,1.90 LU,127.37 BT,5.9,110 km,62 km BaratDaya PULAUDOI-MALUT,Tidak berpotensi tsunami
-05 Agu 2026,21:55:41 WIB,2026-08-05T14:55:41+00:00,8.12 LS,107.91 BT,5.3,18 km,79 km BaratDaya KAB-PANGANDARAN-JABAR,Tidak berpotensi tsunami
