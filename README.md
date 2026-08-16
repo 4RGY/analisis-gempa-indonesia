@@ -4,8 +4,8 @@ Proyek portofolio data analytics sederhana menggunakan Open Data BMKG (Badan Met
 
 ## Insight Utama (Berdasarkan 15 gempa terakhir)
 - **Gempa Terbesar:** Terjadi dengan magnitudo **6.4 SR** di wilayah **10 km Tenggara SIMALUNGUN-SUMUT** pada 15 Agu 2026 pukul 17:54:52 WIB.
-- **Rata-rata Kekuatan:** Sekitar **5.51 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
-- **Rata-rata Kedalaman:** **28.67 km**. 
+- **Rata-rata Kekuatan:** Sekitar **5.57 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
+- **Rata-rata Kedalaman:** **27.60 km**. 
 
 ## Visualisasi Data
 
