@@ -1,4 +1,7 @@
 Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
+17 Agu 2026,07:46:43 WIB,2026-08-17T00:46:43+00:00,8.38 LS,121.52 BT,5.8,10 km,40 km TimurLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
+17 Agu 2026,00:26:17 WIB,2026-08-16T17:26:17+00:00,7.93 LS,120.50 BT,5.0,10 km,75 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
+16 Agu 2026,20:38:41 WIB,2026-08-16T13:38:41+00:00,7.95 LS,120.58 BT,5.2,10 km,74 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
 16 Agu 2026,17:31:37 WIB,2026-08-16T10:31:37+00:00,7.93 LS,120.62 BT,5.1,10 km,77 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
 16 Agu 2026,17:14:37 WIB,2026-08-16T10:14:37+00:00,7.93 LS,120.65 BT,5.6,10 km,78 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
 16 Agu 2026,13:51:48 WIB,2026-08-16T06:51:48+00:00,7.94 LS,120.65 BT,5.5,10 km,77 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
@@ -11,6 +14,3 @@ Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
 15 Agu 2026,10:54:14 WIB,2026-08-15T03:54:14+00:00,8.32 LS,121.45 BT,5.0,10 km,42 km TimurLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
 15 Agu 2026,05:53:14 WIB,2026-08-14T22:53:14+00:00,8.19 LS,120.28 BT,5.3,10 km,51 km BaratLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
 15 Agu 2026,05:37:19 WIB,2026-08-14T22:37:19+00:00,8.15 LS,120.17 BT,5.6,11 km,49 km TimurLaut LABUANBAJO-NTT,Tidak berpotensi tsunami
-15 Agu 2026,05:28:40 WIB,2026-08-14T22:28:40+00:00,8.34 LS,121.54 BT,6.2,10 km,45 km TimurLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
-15 Agu 2026,05:27:03 WIB,2026-08-14T22:27:03+00:00,8.10 LS,120.49 BT,5.5,10 km,56 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
-15 Agu 2026,05:13:53 WIB,2026-08-14T22:13:53+00:00,8.14 LS,120.11 BT,6.2,10 km,46 km TimurLaut LABUANBAJO-NTT,Tidak berpotensi tsunami
