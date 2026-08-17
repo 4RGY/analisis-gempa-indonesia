@@ -1,4 +1,8 @@
 Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
+17 Agu 2026,17:42:42 WIB,2026-08-17T10:42:42+00:00,7.85 LS,120.47 BT,5.0,10 km,84 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
+17 Agu 2026,14:20:20 WIB,2026-08-17T07:20:20+00:00,7.84 LS,120.52 BT,5.0,10 km,86 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
+17 Agu 2026,10:48:05 WIB,2026-08-17T03:48:05+00:00,8.30 LS,121.28 BT,5.1,10 km,41 km BaratLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
+17 Agu 2026,10:36:41 WIB,2026-08-17T03:36:41+00:00,8.26 LS,121.25 BT,5.4,10 km,46 km BaratLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
 17 Agu 2026,07:46:43 WIB,2026-08-17T00:46:43+00:00,8.38 LS,121.52 BT,5.8,10 km,40 km TimurLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
 17 Agu 2026,00:26:17 WIB,2026-08-16T17:26:17+00:00,7.93 LS,120.50 BT,5.0,10 km,75 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
 16 Agu 2026,20:38:41 WIB,2026-08-16T13:38:41+00:00,7.95 LS,120.58 BT,5.2,10 km,74 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
@@ -10,7 +14,3 @@ Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
 15 Agu 2026,19:14:41 WIB,2026-08-15T12:14:41+00:00,8.25 LS,121.28 BT,5.1,10 km,47 km BaratLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
 15 Agu 2026,17:54:52 WIB,2026-08-15T10:54:52+00:00,2.97 LU,98.95 BT,6.4,163 km,10 km Tenggara SIMALUNGUN-SUMUT,Tidak berpotensi tsunami
 15 Agu 2026,14:39:41 WIB,2026-08-15T07:39:41+00:00,7.94 LS,120.79 BT,5.1,10 km,82 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
-15 Agu 2026,12:45:09 WIB,2026-08-15T05:45:09+00:00,8.40 LS,121.44 BT,5.0,10 km,33 km TimurLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
-15 Agu 2026,10:54:14 WIB,2026-08-15T03:54:14+00:00,8.32 LS,121.45 BT,5.0,10 km,42 km TimurLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
-15 Agu 2026,05:53:14 WIB,2026-08-14T22:53:14+00:00,8.19 LS,120.28 BT,5.3,10 km,51 km BaratLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
-15 Agu 2026,05:37:19 WIB,2026-08-14T22:37:19+00:00,8.15 LS,120.17 BT,5.6,11 km,49 km TimurLaut LABUANBAJO-NTT,Tidak berpotensi tsunami
