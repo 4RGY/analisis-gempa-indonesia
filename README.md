@@ -4,8 +4,8 @@ Proyek portofolio data analytics sederhana menggunakan Open Data BMKG (Badan Met
 
 ## Insight Utama (Berdasarkan 15 gempa terakhir)
 - **Gempa Terbesar:** Terjadi dengan magnitudo **6.2 SR** di wilayah **74 km BaratDaya PARIGIMOUTONG-SULTENG** pada 15 Agu 2026 pukul 23:25:19 WIB.
-- **Rata-rata Kekuatan:** Sekitar **5.32 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
-- **Rata-rata Kedalaman:** **44.33 km**. 
+- **Rata-rata Kekuatan:** Sekitar **5.39 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
+- **Rata-rata Kedalaman:** **45.60 km**. 
 
 ## Visualisasi Data
 
