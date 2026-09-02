@@ -4,8 +4,8 @@ Proyek portofolio data analytics sederhana menggunakan Open Data BMKG (Badan Met
 
 ## Insight Utama (Berdasarkan 15 gempa terakhir)
 - **Gempa Terbesar:** Terjadi dengan magnitudo **6.2 SR** di wilayah **168 km BaratLaut MALUKUBRTDAYA** pada 24 Agu 2026 pukul 21:10:18 WIB.
-- **Rata-rata Kekuatan:** Sekitar **5.38 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
-- **Rata-rata Kedalaman:** **34.20 km**. 
+- **Rata-rata Kekuatan:** Sekitar **5.40 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
+- **Rata-rata Kedalaman:** **40.20 km**. 
 
 ## Visualisasi Data
 
