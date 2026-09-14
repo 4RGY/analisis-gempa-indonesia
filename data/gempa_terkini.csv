@@ -1,4 +1,5 @@
 Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
+14 Sep 2026,08:42:08 WIB,2026-09-14T01:42:08+00:00,9.52 LS,112.85 BT,5.2,10 km,156 km Tenggara KAB-MALANG-JATIM,Tidak berpotensi tsunami
 12 Sep 2026,13:14:33 WIB,2026-09-12T06:14:33+00:00,6.03 LS,130.66 BT,5.1,124 km,227 km BaratLaut TANIMBAR,Tidak berpotensi tsunami
 12 Sep 2026,04:23:56 WIB,2026-09-11T21:23:56+00:00,5.81 LS,106.56 BT,5.9,376 km,6 km Tenggara KEPSERIBU-DKI,Tidak berpotensi tsunami
 11 Sep 2026,18:56:24 WIB,2026-09-11T11:56:24+00:00,7.44 LS,129.11 BT,6.2,143 km,166 km TimurLaut MALUKUBRTDAYA,Tidak berpotensi tsunami
@@ -13,4 +14,3 @@ Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
 26 Agu 2026,21:15:32 WIB,2026-08-26T14:15:32+00:00,8.38 LS,121.54 BT,5.0,10 km,41 km TimurLaut MBAY-NAGEKEO-NTT,Tidak berpotensi tsunami
 25 Agu 2026,13:48:21 WIB,2026-08-25T06:48:21+00:00,3.44 LU,124.53 BT,5.1,295 km,108 km BaratDaya TAHUNA-KEP.SANGIHE-SULUT,Tidak berpotensi tsunami
 24 Agu 2026,21:10:18 WIB,2026-08-24T14:10:18+00:00,6.67 LS,127.45 BT,6.2,10 km,168 km BaratLaut MALUKUBRTDAYA,Tidak berpotensi tsunami
-24 Agu 2026,17:03:00 WIB,2026-08-24T10:03:00+00:00,5.01 LS,129.68 BT,5.6,10 km,206 km Tenggara MALUKUTENGAH,Tidak berpotensi tsunami
