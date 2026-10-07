@@ -4,8 +4,8 @@ Proyek portofolio data analytics sederhana menggunakan Open Data BMKG (Badan Met
 
 ## Insight Utama (Berdasarkan 15 gempa terakhir)
 - **Gempa Terbesar:** Terjadi dengan magnitudo **6.2 SR** di wilayah **42 km TimurLaut PULAUDOI-MALUT** pada 14 Sep 2026 pukul 17:58:04 WIB.
-- **Rata-rata Kekuatan:** Sekitar **5.44 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
-- **Rata-rata Kedalaman:** **53.00 km**. 
+- **Rata-rata Kekuatan:** Sekitar **5.39 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
+- **Rata-rata Kedalaman:** **34.07 km**. 
 
 ## Visualisasi Data
 

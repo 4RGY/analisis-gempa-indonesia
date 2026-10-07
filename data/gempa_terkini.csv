@@ -1,4 +1,5 @@
 Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
+07 Okt 2026,03:15:26 WIB,2026-10-06T20:15:26+00:00,8.77 LS,116.14 BT,5.2,92 km,9 km Tenggara LOMBOKBARAT-NTB,Tidak berpotensi tsunami
 06 Okt 2026,20:11:23 WIB,2026-10-06T13:11:23+00:00,4.94 LU,118.77 BT,5.3,10 km,219 km TimurLaut TARAKAN-KALTARA,Tidak berpotensi tsunami
 04 Okt 2026,06:37:31 WIB,2026-10-03T23:37:31+00:00,4.56 LU,94.97 BT,5.9,26 km,68 km BaratDaya CALANG-ACEHJAYA,Tidak berpotensi tsunami
 04 Okt 2026,05:55:52 WIB,2026-10-03T22:55:52+00:00,9.70 LS,118.92 BT,6.1,10 km,14 km BaratDaya KODI-SUMBABARATDAYA-NTT,Tidak berpotensi tsunami
@@ -13,4 +14,3 @@ Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
 14 Sep 2026,16:27:39 WIB,2026-09-14T09:27:39+00:00,8.54 LS,105.78 BT,5.6,10 km,186 km BaratDaya BAYAH-BANTEN,Tidak berpotensi tsunami
 14 Sep 2026,08:42:08 WIB,2026-09-14T01:42:08+00:00,9.52 LS,112.85 BT,5.2,10 km,156 km Tenggara KAB-MALANG-JATIM,Tidak berpotensi tsunami
 12 Sep 2026,13:14:33 WIB,2026-09-12T06:14:33+00:00,6.03 LS,130.66 BT,5.1,124 km,227 km BaratLaut TANIMBAR,Tidak berpotensi tsunami
-12 Sep 2026,04:23:56 WIB,2026-09-11T21:23:56+00:00,5.81 LS,106.56 BT,5.9,376 km,6 km Tenggara KEPSERIBU-DKI,Tidak berpotensi tsunami
