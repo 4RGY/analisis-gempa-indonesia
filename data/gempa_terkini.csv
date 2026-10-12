@@ -1,4 +1,5 @@
 Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
+12 Okt 2026,04:34:53 WIB,2026-10-11T21:34:53+00:00,0.64 LU,121.75 BT,5.7,76 km,29 km BaratLaut POHUWATO-GORONTALO,Tidak berpotensi tsunami
 11 Okt 2026,10:30:20 WIB,2026-10-11T03:30:20+00:00,8.73 LS,106.47 BT,5.7,10 km,193 km BaratDaya KAB-SUKABUMI-JABAR,Tidak berpotensi tsunami
 09 Okt 2026,12:11:04 WIB,2026-10-09T05:11:04+00:00,0.77 LU,126.03 BT,5.1,10 km,125 km Tenggara BITUNG-SULUT,Tidak berpotensi tsunami
 08 Okt 2026,15:07:56 WIB,2026-10-08T08:07:56+00:00,5.66 LU,125.19 BT,5.8,10 km,230 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT,Tidak berpotensi tsunami
@@ -13,4 +14,3 @@ Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
 19 Sep 2026,11:18:36 WIB,2026-09-19T04:18:36+00:00,1.60 LS,138.88 BT,5.1,10 km,33 km TimurLaut SARMI-PAPUA,Tidak berpotensi tsunami
 18 Sep 2026,21:36:17 WIB,2026-09-18T14:36:17+00:00,8.64 LS,105.74 BT,5.2,10 km,198 km BaratDaya BAYAH-BANTEN,Tidak berpotensi tsunami
 17 Sep 2026,13:20:53 WIB,2026-09-17T06:20:53+00:00,1.35 LU,126.44 BT,5.1,24 km,118 km BaratLaut JAILOLO-MALUT,Tidak berpotensi tsunami
-14 Sep 2026,17:58:04 WIB,2026-09-14T10:58:04+00:00,2.52 LU,128.09 BT,6.2,145 km,42 km TimurLaut PULAUDOI-MALUT,Tidak berpotensi tsunami
