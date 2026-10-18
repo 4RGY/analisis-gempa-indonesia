@@ -4,8 +4,8 @@ Proyek portofolio data analytics sederhana menggunakan Open Data BMKG (Badan Met
 
 ## Insight Utama (Berdasarkan 15 gempa terakhir)
 - **Gempa Terbesar:** Terjadi dengan magnitudo **6.1 SR** di wilayah **14 km BaratDaya KODI-SUMBABARATDAYA-NTT** pada 04 Okt 2026 pukul 05:55:52 WIB.
-- **Rata-rata Kekuatan:** Sekitar **5.41 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
-- **Rata-rata Kedalaman:** **21.87 km**. 
+- **Rata-rata Kekuatan:** Sekitar **5.42 SR**. Mayoritas gempa terkini berada di rentang menengah yang terpantau oleh sistem peringatan dini.
+- **Rata-rata Kedalaman:** **20.93 km**. 
 
 ## Visualisasi Data
 
