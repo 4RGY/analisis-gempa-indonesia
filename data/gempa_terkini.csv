@@ -1,4 +1,5 @@
 Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
+27 Okt 2026,21:43:13 WIB,2026-10-27T14:43:13+00:00,9.20 LS,110.39 BT,5.4,10 km,136 km BaratDaya GUNUNGKIDUL-DIY,Tidak berpotensi tsunami
 22 Okt 2026,17:57:49 WIB,2026-10-22T10:57:49+00:00,3.11 LS,102.14 BT,5.2,120 km,6 km BaratLaut LEBONG-BENGKULU,Tidak berpotensi tsunami
 21 Okt 2026,14:44:15 WIB,2026-10-21T07:44:15+00:00,7.75 LS,128.18 BT,5.1,96 km,62 km TimurLaut MALUKUBRTDAYA,Tidak berpotensi tsunami
 20 Okt 2026,23:29:35 WIB,2026-10-20T16:29:35+00:00,3.79 LU,95.72 BT,5.4,74 km,59 km BaratDaya MEULABOH-ACEHBARAT,Tidak berpotensi tsunami
@@ -13,4 +14,3 @@ Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
 04 Okt 2026,05:55:52 WIB,2026-10-03T22:55:52+00:00,9.70 LS,118.92 BT,6.1,10 km,14 km BaratDaya KODI-SUMBABARATDAYA-NTT,Tidak berpotensi tsunami
 01 Okt 2026,21:20:00 WIB,2026-10-01T14:20:00+00:00,7.07 LS,120.80 BT,5.1,10 km,111 km Tenggara SELAYAR-SULSEL,Tidak berpotensi tsunami
 22 Sep 2026,06:48:13 WIB,2026-09-21T23:48:13+00:00,4.74 LU,125.30 BT,5.2,10 km,127 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT,Tidak berpotensi tsunami
-21 Sep 2026,14:31:07 WIB,2026-09-21T07:31:07+00:00,0.70 LS,122.45 BT,5.3,10 km,26 km BaratDaya PULAUPUAH-SULTENG,Tidak berpotensi tsunami
