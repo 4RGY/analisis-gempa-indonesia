@@ -1,4 +1,5 @@
 Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
+15 Nov 2026,22:41:15 WIB,2026-11-15T15:41:15+00:00,1.79 LU,122.30 BT,5.4,465 km,127 km BaratLaut GORONTALOUTARA-GORONTALO,Tidak berpotensi tsunami
 10 Nov 2026,22:51:37 WIB,2026-11-10T15:51:37+00:00,0.93 LS,128.60 BT,5.1,10 km,116 km TimurLaut HALMAHERASELATAN-MALUT,Tidak berpotensi tsunami
 10 Nov 2026,15:34:04 WIB,2026-11-10T08:34:04+00:00,0.19 LS,132.98 BT,5.3,10 km,69 km BaratLaut KEBARMANOKWARI-PAPUABRT,Tidak berpotensi tsunami
 10 Nov 2026,08:53:28 WIB,2026-11-10T01:53:28+00:00,8.02 LS,130.49 BT,5.4,84 km,90 km BaratDaya TANIMBAR,Tidak berpotensi tsunami
@@ -13,4 +14,3 @@ Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
 27 Okt 2026,21:43:13 WIB,2026-10-27T14:43:13+00:00,9.20 LS,110.39 BT,5.4,10 km,136 km BaratDaya GUNUNGKIDUL-DIY,Tidak berpotensi tsunami
 22 Okt 2026,17:57:49 WIB,2026-10-22T10:57:49+00:00,3.11 LS,102.14 BT,5.2,120 km,6 km BaratLaut LEBONG-BENGKULU,Tidak berpotensi tsunami
 21 Okt 2026,14:44:15 WIB,2026-10-21T07:44:15+00:00,7.75 LS,128.18 BT,5.1,96 km,62 km TimurLaut MALUKUBRTDAYA,Tidak berpotensi tsunami
-20 Okt 2026,23:29:35 WIB,2026-10-20T16:29:35+00:00,3.79 LU,95.72 BT,5.4,74 km,59 km BaratDaya MEULABOH-ACEHBARAT,Tidak berpotensi tsunami
