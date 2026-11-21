@@ -1,4 +1,5 @@
 Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
+21 Nov 2026,16:42:11 WIB,2026-11-21T09:42:11+00:00,7.88 LS,127.51 BT,7.2,125 km,43 km BaratLaut MALUKUBRTDAYA,Tidak berpotensi tsunami
 20 Nov 2026,20:09:01 WIB,2026-11-20T13:09:01+00:00,5.38 LU,125.21 BT,5.2,10 km,199 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT,Tidak berpotensi tsunami
 19 Nov 2026,08:34:48 WIB,2026-11-19T01:34:48+00:00,0.47 LU,96.56 BT,5.4,12 km,114 km BaratDaya NIASBARAT-SUMUT,Tidak berpotensi tsunami
 18 Nov 2026,11:41:32 WIB,2026-11-18T04:41:32+00:00,8.17 LS,120.54 BT,5.8,10 km,49 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami
@@ -13,4 +14,3 @@ Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
 02 Nov 2026,15:13:10 WIB,2026-11-02T08:13:10+00:00,1.31 LU,124.83 BT,5.3,148 km,1 km BaratDaya TOMOHON-SULUT,Tidak berpotensi tsunami
 02 Nov 2026,07:53:11 WIB,2026-11-02T00:53:11+00:00,7.08 LS,130.07 BT,5.5,130 km,169 km BaratLaut TANIMBAR,Tidak berpotensi tsunami
 30 Okt 2026,03:32:13 WIB,2026-10-29T20:32:13+00:00,4.40 LS,132.49 BT,5.3,10 km,139 km BaratLaut TUAL-MALUKU,Tidak berpotensi tsunami
-29 Okt 2026,10:26:49 WIB,2026-10-29T03:26:49+00:00,5.45 LS,141.90 BT,6.0,120 km,153 km Tenggara OKSIBIL-PAPUAPGNGN,Tidak berpotensi tsunami
