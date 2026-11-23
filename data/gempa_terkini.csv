@@ -1,4 +1,6 @@
 Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
+23 Nov 2026,18:24:32 WIB,2026-11-23T11:24:32+00:00,1.44 LU,131.96 BT,5.3,10 km,241 km TimurLaut RAJAAMPAT-PAPUABRTDY,Tidak berpotensi tsunami
+23 Nov 2026,14:36:24 WIB,2026-11-23T07:36:24+00:00,7.63 LS,128.38 BT,5.4,141 km,87 km TimurLaut MALUKUBRTDAYA,Tidak berpotensi tsunami
 22 Nov 2026,14:54:39 WIB,2026-11-22T07:54:39+00:00,3.12 LU,126.57 BT,5.4,10 km,98 km BaratDaya MELONGUANE-SULUT,Tidak berpotensi tsunami
 21 Nov 2026,16:42:11 WIB,2026-11-21T09:42:11+00:00,7.88 LS,127.51 BT,7.2,125 km,43 km BaratLaut MALUKUBRTDAYA,Tidak berpotensi tsunami
 20 Nov 2026,20:09:01 WIB,2026-11-20T13:09:01+00:00,5.38 LU,125.21 BT,5.2,10 km,199 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT,Tidak berpotensi tsunami
@@ -12,5 +14,3 @@ Tanggal,Jam,DateTime,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi
 10 Nov 2026,15:34:04 WIB,2026-11-10T08:34:04+00:00,0.19 LS,132.98 BT,5.3,10 km,69 km BaratLaut KEBARMANOKWARI-PAPUABRT,Tidak berpotensi tsunami
 10 Nov 2026,08:53:28 WIB,2026-11-10T01:53:28+00:00,8.02 LS,130.49 BT,5.4,84 km,90 km BaratDaya TANIMBAR,Tidak berpotensi tsunami
 09 Nov 2026,16:48:29 WIB,2026-11-09T09:48:29+00:00,2.93 LS,130.44 BT,5.5,10 km,20 km BaratLaut SERAMBAGIANTIMUR-MALUKU,Tidak berpotensi tsunami
-02 Nov 2026,15:13:10 WIB,2026-11-02T08:13:10+00:00,1.31 LU,124.83 BT,5.3,148 km,1 km BaratDaya TOMOHON-SULUT,Tidak berpotensi tsunami
-02 Nov 2026,07:53:11 WIB,2026-11-02T00:53:11+00:00,7.08 LS,130.07 BT,5.5,130 km,169 km BaratLaut TANIMBAR,Tidak berpotensi tsunami
